@@ -11,9 +11,21 @@
 </head>
 <body>
     <!-- Cabeçalho -->
-    <header>
-        <div class="container">
-
+    <header id="inicio">
+        <div class="container flex">
+            <div id="logo">
+                <img src="img/logo.png" alt="hal 9000">
+            </div>
+            <nav>
+                <input type="checkbox"id="check">
+                <label for="check">&#x268c;</label>
+                <ul>
+                    <li><a href="#inicio">Início</a></li>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#conteudo">Conteúdo</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
         </div>
     </header>
 
@@ -27,7 +39,7 @@
 
     <!-- Sobre -->
     <section>
-        <div class="container">
+        <div class="container" id="sobre">
             <h2>Aprender na prática</h2>
         </div>
     </section>
@@ -48,7 +60,7 @@
 
     <!-- Conteúdo -->
     <section>
-        <div class="container">
+        <div class="container" id="conteudo">
             <h2>Conteúdo</h2>
             <h3>HTML5</h3>
             <h3>BOX MODEL CSS</h3>
@@ -58,9 +70,10 @@
 
     <!-- Rodapé -->
     <footer>
-        <div class="container">
-            
+        <div class="container" id="contato">
+
         </div>
     </footer>
+    <a href="#inicio" id="topo"><img src="img/topo.png" alt="Topo do site"></a>
 </body>
 </html>
