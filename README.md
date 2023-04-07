@@ -1,4 +1,4 @@
-# HTML5 e CSS
+# HTML5 e CSS3
 Aplicando HTML5, CSS3 e técnicas de SEO no desenvolvimento de um site moderno e responsivo.
 ## Links indicados
 ### Planejamento
