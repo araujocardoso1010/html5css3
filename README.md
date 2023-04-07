@@ -17,3 +17,8 @@ Aplicando HTML5, CSS3 e técnicas de SEO no desenvolvimento de um site moderno e
 [iconfinder](https://www.iconfinder.com/)
 
 [optmizilla](https://imagecompressor.com/pt/)
+
+### Validação W3C
+[html](https://validator.w3.org/)
+
+[css](https://jigsaw.w3.org/css-validator/)
